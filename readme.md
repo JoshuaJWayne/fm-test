@@ -1,13 +1,13 @@
 # Development Project Test
 
-## Intructions
+## Instructions
 
 - Clone (Download) this project to your desktop, it includes:
-	- an xd design file
 	- a Project Assets directory
+	- A LINK TO THE XD FILE: https://drive.google.com/file/d/18nHEX0M679y3O87Dcw-lWcR5uR59ekYz/view?usp=sharing
 - If you would prefer you can create a fork of this repository and work with that. 
 
-Please use the included XD file as reference to create your test webpage. *You may use a free trail of adobe xd for 7 days*   
+Please download and use the XD file as reference to create your test webpage. *You may use a free trail of adobe xd for 7 days*   
 I highly recommend you do this, there is a lot of helpful information contained in the xd file such as font size and colors.
 
 Adobe XD trial: https://www.adobe.com/in/products/xd/pricing/free-trial.html
